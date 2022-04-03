@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>805549074773-6nhoscmd0acim26ds4b0pl8s8l65dold.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.805549074773-6nhoscmd0acim26ds4b0pl8s8l65dold</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwyEz8EdvDiG3kBF1g9-XYiK5x4qxPiX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>805549074773</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.scienza.pharma</string>
+	<key>PROJECT_ID</key>
+	<string>pharmavision-e6e7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pharmavision-e6e7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:805549074773:ios:f67273066ec278d07de7dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://pharmavision-e6e7d.firebaseio.com</string>
+</dict>
+</plist>
